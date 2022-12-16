@@ -1,0 +1,26 @@
+Kirill connected to the server from address /127.0.0.1
+Kirill created the room afwafafw
+Andrey connected to the server from address /127.0.0.1
+Andrey requested room list
+Kirill joined afwafafw
+Andrey joined afwafafw
+Kirill:afwafafw-move-0-1
+Andrey and Kirill disconnected from the server
+Andrey has disconnected the roomafwafafw
+Kirill connected to the server from address /127.0.0.1
+Andrey connected to the server from address /127.0.0.1
+Andrey created the room Dqd
+Kirill requested room list
+Kirill joined Dqd
+Andrey joined Dqd
+Andrey:Dqd-move-0-1
+Kirill and Andrey disconnected from the server
+Kirill connected to the server from address /127.0.0.1
+Andrey connected to the server from address /127.0.0.1
+Kirill created the room acwaa
+Andrey requested room list
+Kirill joined acwaa
+Andrey joined acwaa
+Kirill:acwaa-move-0-1
+Andrey and Kirill disconnected from the server
+Andrey has disconnected the roomacwaa
